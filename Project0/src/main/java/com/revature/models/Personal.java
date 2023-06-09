@@ -75,7 +75,6 @@ public class Personal {
                 "personal_id=" + personal_id +
                 ", personal_name='" + personal_name + '\'' +
                 ", years_in_service=" + years_in_service +
-                ", squa_id_fk=" + squa_id_fk +
                 ", squadron=" + squadron +
                 '}';
     }

@@ -1,0 +1,38 @@
+22:36:16.840 [main] INFO  io.javalin.Javalin -- Starting Javalin ...
+22:36:16.923 [main] INFO  org.eclipse.jetty.server.Server -- jetty-11.0.15; built: 2023-04-11T18:37:53.775Z; git: 5bc5e562c8d05c5862505aebe5cf83a61bdbcb96; jvm 11.0.18+9-LTS-195
+22:36:16.987 [main] INFO  o.e.j.s.s.DefaultSessionIdManager -- Session workerName=node0
+22:36:16.995 [main] INFO  o.e.j.server.handler.ContextHandler -- Started i.j.j.@349c1daf{/,null,AVAILABLE}
+22:36:17.094 [main] INFO  o.e.jetty.server.AbstractConnector -- Started ServerConnector@600b90df{HTTP/1.1, (http/1.1)}{0.0.0.0:7070}
+22:36:17.106 [main] INFO  org.eclipse.jetty.server.Server -- Started Server@5a755cc1{STARTING}[11.0.15,sto=0] @687ms
+22:36:17.106 [main] INFO  io.javalin.Javalin -- 
+       __                  ___          ______
+      / /___ __   ______ _/ (_)___     / ____/
+ __  / / __ `/ | / / __ `/ / / __ \   /___ \
+/ /_/ / /_/ /| |/ / /_/ / / / / / /  ____/ /
+\____/\__,_/ |___/\__,_/_/_/_/ /_/  /_____/
+
+       https://javalin.io/documentation
+
+22:36:17.114 [main] INFO  io.javalin.Javalin -- Listening on http://localhost:7070/
+22:36:17.124 [main] INFO  io.javalin.Javalin -- You are running Javalin 5.5.0 (released May 1, 2023).
+22:36:17.126 [main] INFO  io.javalin.Javalin -- Javalin started in 286ms \o/
+22:58:40.333 [main] INFO  io.javalin.Javalin -- Starting Javalin ...
+22:58:40.417 [main] INFO  org.eclipse.jetty.server.Server -- jetty-11.0.15; built: 2023-04-11T18:37:53.775Z; git: 5bc5e562c8d05c5862505aebe5cf83a61bdbcb96; jvm 11.0.18+9-LTS-195
+22:58:40.484 [main] INFO  o.e.j.s.s.DefaultSessionIdManager -- Session workerName=node0
+22:58:40.493 [main] INFO  o.e.j.server.handler.ContextHandler -- Started i.j.j.@4b9df8a{/,null,AVAILABLE}
+22:58:40.589 [main] INFO  o.e.jetty.server.AbstractConnector -- Started ServerConnector@d41f816{HTTP/1.1, (http/1.1)}{0.0.0.0:7070}
+22:58:40.602 [main] INFO  org.eclipse.jetty.server.Server -- Started Server@4f5991f6{STARTING}[11.0.15,sto=0] @685ms
+22:58:40.603 [main] INFO  io.javalin.Javalin -- 
+       __                  ___          ______
+      / /___ __   ______ _/ (_)___     / ____/
+ __  / / __ `/ | / / __ `/ / / __ \   /___ \
+/ /_/ / /_/ /| |/ / /_/ / / / / / /  ____/ /
+\____/\__,_/ |___/\__,_/_/_/_/ /_/  /_____/
+
+       https://javalin.io/documentation
+
+22:58:40.609 [main] INFO  io.javalin.Javalin -- Listening on http://localhost:7070/
+22:58:40.619 [main] INFO  io.javalin.Javalin -- You are running Javalin 5.5.0 (released May 1, 2023).
+22:58:40.620 [main] INFO  io.javalin.Javalin -- Javalin started in 288ms \o/
+22:58:45.018 [JettyServerThreadPool-39] INFO  com.revature.utils.JavalinAppConfig -- GET Request was sent to path: http://localhost:7070/personal
+22:58:45.327 [JettyServerThreadPool-39] INFO  c.r.controllers.PersonalController -- All Personals Are Retrieved!

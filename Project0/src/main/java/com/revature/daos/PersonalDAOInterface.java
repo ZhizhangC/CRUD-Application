@@ -8,4 +8,11 @@ public interface PersonalDAOInterface {
     ArrayList<Personal> getAllPersonals();
 
     Personal insertPersonal(Personal p);
+
+    Personal removePersonalById(int id);
+
+    Personal getPersonalById(int id);
+
+    boolean updatePersonalYearInService(int y, int id);
+
 }

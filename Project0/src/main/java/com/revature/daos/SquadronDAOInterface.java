@@ -7,4 +7,5 @@ public interface SquadronDAOInterface {
     boolean updateSquaLocation(String location, int id);
 
     boolean updateSquaActivePersonal(int act_p, int id);
+
 }
